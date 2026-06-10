@@ -119,6 +119,7 @@ This project successfully demonstrates how to fetch real-time data from an API a
 ## 👤 Author
 
 **Mahamkali Venkata Naga Sai**
+
 Computer Science Engineer
 
 ---
